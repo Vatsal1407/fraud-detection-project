@@ -1,0 +1,10 @@
+pandas>=3.0.0
+numpy>=2.3.0
+matplotlib>=3.8.2
+seaborn>=0.13.2
+scikit-learn>=1.8.0
+xgboost>=2.0.3
+imbalanced-learn>=0.14.1
+jupyter>=1.0.0
+flask>=3.0.3
+joblib>=1.4.0
