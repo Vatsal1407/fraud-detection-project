@@ -279,10 +279,10 @@ Classification Report:
 
 ## 📧 Contact
 
-**Author:** [Your Name]
-**Email:** your.email@example.com
-**LinkedIn:** [Your LinkedIn Profile]
-**GitHub:** [Your GitHub Profile]
+**Author:** Vatsal Agarwal
+**Email:** vatsalagarwal1407@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/vatsal-agarwal-b4bb32321/
+**GitHub:** https://github.com/Vatsal1407
 
 ## 📄 License
 
