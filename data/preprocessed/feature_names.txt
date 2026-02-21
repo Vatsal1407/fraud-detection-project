@@ -1,0 +1,54 @@
+Age
+Transaction_Amount
+Account_Balance
+Hour
+Day_of_Week
+Day
+Month
+Year
+Is_Weekend
+Is_Night
+Is_Business_Hours
+Transaction_to_Balance_Ratio
+Is_High_Value
+Is_Low_Balance
+State_Frequency
+City_Frequency
+Transaction_Description_Frequency
+Gender_Male
+Account_Type_Checking
+Account_Type_Savings
+Transaction_Type_Credit
+Transaction_Type_Debit
+Transaction_Type_Transfer
+Transaction_Type_Withdrawal
+Merchant_Category_Electronics
+Merchant_Category_Entertainment
+Merchant_Category_Groceries
+Merchant_Category_Health
+Merchant_Category_Restaurant
+Transaction_Device_ATM Booth Kiosk
+Transaction_Device_Bank Branch
+Transaction_Device_Banking Chatbot
+Transaction_Device_Biometric Scanner
+Transaction_Device_Debit/Credit Card
+Transaction_Device_Desktop/Laptop
+Transaction_Device_Mobile Device
+Transaction_Device_POS Mobile App
+Transaction_Device_POS Mobile Device
+Transaction_Device_POS Terminal
+Transaction_Device_Payment Gateway Device
+Transaction_Device_QR Code Scanner
+Transaction_Device_Self-service Banking Machine
+Transaction_Device_Smart Card
+Transaction_Device_Tablet
+Transaction_Device_Virtual Card
+Transaction_Device_Voice Assistant
+Transaction_Device_Wearable Device
+Transaction_Device_Web Browser
+Device_Type_Desktop
+Device_Type_Mobile
+Device_Type_POS
+Amount_Category_Medium
+Amount_Category_High
+Amount_Category_Very High
