@@ -98,15 +98,16 @@ pip install -r requirements.txt
 
 ## 📦 Dependencies
 ```txt
-pandas==2.1.4
-numpy==1.26.2
-matplotlib==3.8.2
-seaborn==0.13.0
-scikit-learn==1.3.2
-xgboost==2.0.3
-imbalanced-learn==0.11.0
-jupyter==1.0.0
-joblib==1.3.2
+pandas>=3.0.0
+numpy>=2.3.0
+matplotlib>=3.8.2
+seaborn>=0.13.2
+scikit-learn>=1.8.0
+xgboost>=2.0.3
+imbalanced-learn>=0.14.1
+jupyter>=1.0.0
+flask>=3.0.3
+joblib>=1.4.0
 ```
 
 ## 🚀 Usage
