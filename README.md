@@ -1,8 +1,3 @@
-Perfect! Here's a comprehensive **README.md** for your project:
-
----
-
-```markdown
 # Bank Transaction Fraud Detection
 
 A comprehensive machine learning project implementing fraud detection using Stratified K-Fold Cross-Validation, with systematic analysis of class imbalance handling techniques.
@@ -48,7 +43,6 @@ Despite poor model performance, the project demonstrates:
 - ✅ Professional model evaluation and documentation
 
 ## 📁 Project Structure
-
 ```
 fraud_detection_project/
 ├── data/
@@ -103,7 +97,6 @@ pip install -r requirements.txt
 ```
 
 ## 📦 Dependencies
-
 ```txt
 pandas==2.1.4
 numpy==1.26.2
@@ -303,6 +296,3 @@ This project is for educational purposes.
 ---
 
 **Note:** This project demonstrates proper ML methodology and systematic analysis. While model performance is limited by dataset quality (ROC-AUC ≈ 0.50), the project showcases professional ML practices, thorough evaluation, and honest assessment of limitations - all critical skills for real-world data science.
-```
-
----
