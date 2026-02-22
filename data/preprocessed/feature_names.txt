@@ -10,11 +10,6 @@ Is_Weekend
 Is_Night
 Is_Business_Hours
 Transaction_to_Balance_Ratio
-Is_High_Value
-Is_Low_Balance
-State_Frequency
-City_Frequency
-Transaction_Description_Frequency
 Gender_Male
 Account_Type_Checking
 Account_Type_Savings
@@ -52,3 +47,8 @@ Device_Type_POS
 Amount_Category_Medium
 Amount_Category_High
 Amount_Category_Very High
+State_Frequency
+City_Frequency
+Transaction_Description_Frequency
+Is_High_Value
+Is_Low_Balance
